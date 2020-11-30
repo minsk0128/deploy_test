@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.add4205f.chunk.js",
-    "main.js.map": "/static/js/main.add4205f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.35d6a194.js",
-    "runtime-main.js.map": "/static/js/runtime-main.35d6a194.js.map",
-    "static/js/2.ccef450e.chunk.js": "/static/js/2.ccef450e.chunk.js",
-    "static/js/2.ccef450e.chunk.js.map": "/static/js/2.ccef450e.chunk.js.map",
-    "static/js/3.e9c39cd1.chunk.js": "/static/js/3.e9c39cd1.chunk.js",
-    "static/js/3.e9c39cd1.chunk.js.map": "/static/js/3.e9c39cd1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ccef450e.chunk.js.LICENSE.txt": "/static/js/2.ccef450e.chunk.js.LICENSE.txt"
+    "main.css": "/deploy_test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/deploy_test/static/js/main.add4205f.chunk.js",
+    "main.js.map": "/deploy_test/static/js/main.add4205f.chunk.js.map",
+    "runtime-main.js": "/deploy_test/static/js/runtime-main.d82ae20f.js",
+    "runtime-main.js.map": "/deploy_test/static/js/runtime-main.d82ae20f.js.map",
+    "static/js/2.ccef450e.chunk.js": "/deploy_test/static/js/2.ccef450e.chunk.js",
+    "static/js/2.ccef450e.chunk.js.map": "/deploy_test/static/js/2.ccef450e.chunk.js.map",
+    "static/js/3.e9c39cd1.chunk.js": "/deploy_test/static/js/3.e9c39cd1.chunk.js",
+    "static/js/3.e9c39cd1.chunk.js.map": "/deploy_test/static/js/3.e9c39cd1.chunk.js.map",
+    "index.html": "/deploy_test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/deploy_test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ccef450e.chunk.js.LICENSE.txt": "/deploy_test/static/js/2.ccef450e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35d6a194.js",
+    "static/js/runtime-main.d82ae20f.js",
     "static/js/2.ccef450e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.add4205f.chunk.js"
